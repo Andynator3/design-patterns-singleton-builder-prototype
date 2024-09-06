@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¾ÒÌ8ğ³ŒÆÄ1
+L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8ö³ŒÆÄ1
+F	java:S106"+Replace this use of System.out by a logger.(²ÏË8ö³ŒÆÄ1
+]	java:S125"<This block of commented-out lines of code should be removed.(î»½Èşÿÿÿÿ8ö³ŒÆÄ1
+L	java:S106"+Replace this use of System.out by a logger.(Ÿ¤ı§ıÿÿÿÿ8Ë»ÆÄ1
+X	java:S125""<This block of commented-out lines of code should be removed.(¨Æøö8÷³ŒÆÄ1
+X	java:S125%"<This block of commented-out lines of code should be removed.(¤¸‚8÷³ŒÆÄ1
+]	java:S1253"<This block of commented-out lines of code should be removed.(­Ÿ¤´şÿÿÿÿ8÷³ŒÆÄ1
+]	java:S125<"<This block of commented-out lines of code should be removed.(­Ÿ¤´şÿÿÿÿ8÷³ŒÆÄ1
+]
+java:S1128"@Remove this unused import 'com.excellCodin.model.AccountStatus'.(÷Ÿª8ñ¯ÆÄ1
+`
+java:S1128">Remove this unused import 'com.excellCodin.model.AccountType'.(™ù‹¢øÿÿÿÿ8ñ¯ÆÄ1
+\
+java:S1128"?Remove this unused import 'com.excellCodin.model.BankDirector'.(À¯×8ñ¯ÆÄ1
